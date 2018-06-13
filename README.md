@@ -1,5 +1,5 @@
 # HarmonicOscillator
-Toy harmonic oscillator in python, demonstrating the effect of timestep and mass on the Hamiltonian
+Toy harmonic oscillator with a neat animation in python, demonstrating the effect of timestep and mass on the Hamiltonian
 
 ## notes 
 This script demonstrates a few things that might help my understanding of statistical mechanics.
